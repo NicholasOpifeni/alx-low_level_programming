@@ -1,1 +1,1 @@
-File for 5-print_numbers.c
+File for 6-print_numberz.c
