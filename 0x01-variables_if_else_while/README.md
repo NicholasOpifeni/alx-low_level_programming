@@ -1,1 +1,1 @@
-File for 6-print_numberz.c
+File for 7-print_tebahpla.c
