@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+
 /**
  * main - Entry point
  *
@@ -17,7 +16,8 @@ int main(void)
 			putchar(ch);
 		}
 	}
-        putchar(10);
+
+	putchar(10);
 
 	return (0);
 }
