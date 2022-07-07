@@ -1,1 +1,1 @@
-File for 100-times_table.c
+File for 101-natural.c
