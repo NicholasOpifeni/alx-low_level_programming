@@ -4,7 +4,7 @@
  * _strchr -> String Character
  * @s: String given
  * @c: Another char
- * Return: A string
+ * Return: NULL if char not found, or pointer to first occurrence of char `c`
  */
 
 char *_strchr(char *s, char c)
