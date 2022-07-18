@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _memcpy: Memory copy
+ * _memcpy -> Memory copy
  * @dest: Destination memory
  * @src: Source memory
  * @n: Number of bytes to be copied
@@ -12,7 +12,7 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int a;
 
-	for(a = 0; a < n; a++)
+	for (a = 0; a < n; a++)
 		dest[a] = src[a];
 	return (dest);
 }
